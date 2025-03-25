@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/d1265386-5c2e-48e3-9379-b0e11ca3ef46)
 
 Understanding customer behavior and business performance is **crucial for growth and long-term success**.  
-This project analyzes **customer acquisition and sales performance** using **Tableau dashboards** to uncover key trends from **2018 to 2020**.  
+This project analyzes **customer acquisition and sales performance** using **Tableau dashboards** to uncover key trends.
 
 By examining **customer behavior, sales patterns, and profitability**, this analysis provides **actionable insights** to help the company make **data-driven marketing, sales, and operational decisions**.  
 
