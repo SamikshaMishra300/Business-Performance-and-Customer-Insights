@@ -62,10 +62,10 @@ The main goals of this analysis were:
 
 ## 🔍 Key Insights  
 📌 **Corporate and Home Office customers** generate the **highest profit**.  
-📌 The **Central and East** regions **outperform others** in sales and margins.  
+📌 The **Central and west** regions **outperform others** in sales and margins.  
 📌 **Shipping and labor costs** significantly **reduce profit in certain regions**.  
 📌 **Customers who provide positive feedback** are **more likely to purchase again**.  
-📌 Products like **Phones and Chairs** have **high margins and strong demand**.  
+📌 Products like in **Technology** have **high margins and strong demand**.  
 
 ---
 
