@@ -48,7 +48,7 @@ The main goals of this analysis were:
 2.  **High repeat purchases** and **positive customer feedback**.
     ![Image](https://github.com/user-attachments/assets/d66a6715-5ce6-4d09-b60b-e90609a3b2bd)
    
-3. **Best-selling products** include **high-margin items** such as **TGechnology**.
+3. **Best-selling products** include **high-margin items** such as **Technology**.
    ![Image](https://github.com/user-attachments/assets/62d740f5-44ac-4e85-ab8b-eec9fa856d2e)
      
 4.  **Profit margins fluctuate** across different states, primarily due to **shipping and labor costs**.
