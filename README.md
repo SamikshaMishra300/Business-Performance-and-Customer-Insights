@@ -1,4 +1,16 @@
 # Business Performance and Customer Insights
+**Problem Overview**
+
+This project addresses the challenge of **inefficient decision-making** by analyzing key business metrics to drive better decisions. The focus is on uncovering insights that optimize customer acquisition, retention, and overall profitability. 
+
+## Problem Being Solved
+
+The analysis aims to solve the following:
+
+- **Identify profitable customer segments** and product categories to guide marketing and sales strategies.
+- **Understand how customer feedback influences repeat purchases**, improving customer retention strategies.
+- **Analyze regional performance trends**, highlighting areas of growth or concern across different regions.
+- **Assess the impact of operational costs (shipping, labor, discounts)** on overall profitability, offering insights for cost optimization.**
 
 ## Project Background  
 ![Image](https://github.com/user-attachments/assets/d1265386-5c2e-48e3-9379-b0e11ca3ef46)
@@ -20,6 +32,42 @@ The dataset consists of **8,399 records**, covering multiple business aspects:
 - **Customer Behavior**: Feedback, Promotions, and Repeat Purchase Patterns  
 
 ---
+## Dataset Attributes
+
+The dataset consists of various attributes related to customer, order, and financial information. Below is the list of variables with their respective data types:
+
+| Variable               | Data Type |
+|------------------------|-----------|
+| **City**               | String    |
+| **Customer Name**      | String    |
+| **Customer Segment**   | String    |
+| **Customer Type**      | String    |
+| **Feedback**           | String    |
+| **Gender**             | String    |
+| **Order Date**         | Date      |
+| **Order ID**           | String    |
+| **Order Priority**     | String    |
+| **POS**                | String    |
+| **Product Category**   | String    |
+| **Product Container**  | String    |
+| **Product Name**       | String    |
+| **Product Sub-Category**| String    |
+| **Promotion**          | String    |
+| **Region**             | String    |
+| **Row ID**             | Integer   |
+| **Ship Date**          | Date      |
+| **Ship Mode**          | String    |
+| **State**              | String    |
+| **Zip Code**           | String    |
+| **Discount**           | Float     |
+| **Labour Cost**        | Float     |
+| **Number of Records**  | Integer   |
+| **Order Quantity**     | Integer   |
+| **Product Base Margin**| Float     |
+| **Profit**             | Float     |
+| **Sales**              | Float     |
+| **Shipping Cost**      | Float     |
+| **Unit Price**         | Float     |
 
 ## 📌 Core Research Questions  
 This project aims to answer the following **key questions**:  
