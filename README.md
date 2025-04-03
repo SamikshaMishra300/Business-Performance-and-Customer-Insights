@@ -1,4 +1,4 @@
-# Business-Performance-and-Customer-Insights
+# Business Performance and Customer Insights
 
 ## Project Background  
 ![Image](https://github.com/user-attachments/assets/d1265386-5c2e-48e3-9379-b0e11ca3ef46)
